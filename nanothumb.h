@@ -6,8 +6,8 @@
 #ifndef NANOTHUMB_H
 #define NANOTHUMB_H
 
-#include <stdio.h>
-#include <stdlib.h>
+#include <cstdio>
+#include <cstdlib>
 #include <jpeglib.h>
 
 
